@@ -19,7 +19,7 @@
     <?php  
     require 'config.php'; // Include the database configuration
 
-    $secretkey = "cfsk_ma_test_b19470cdf16f564487a9663e3923046b_6eb33929";
+    $secretkey = "cfsk_ma_test_*****************************************";
     $orderId = $_POST["orderId"];
     $orderAmount = $_POST["orderAmount"];
     $referenceId = $_POST["referenceId"];
