@@ -35,7 +35,7 @@ try {
 }
 
 extract($_POST);
-$secretKey = "cfsk_ma_test_b19470cdf16f564487a9663e3923046b_6eb33929"; // Replace with your secret key
+$secretKey = "cfsk_ma_test_*****************************************"; // Replace with your secret key
 $postData = array( 
   "appId" => $appId, 
   "orderId" => $orderId, 
