@@ -72,7 +72,7 @@ if (isset($_POST['cancel_appointment'])) {
 
       <div class="form-group">
           
-          <input type="hidden" class="form-control" name="appId" value="TEST102438457b6273a54672061a5c0d54834201"/>
+          <input type="hidden" class="form-control" name="appId" value="TEST************************************"/>
         </div>
   
       <div class="form-group">
